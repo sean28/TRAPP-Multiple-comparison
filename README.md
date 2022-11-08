@@ -11,7 +11,7 @@ Note: Other versions may not be applicable!
 
 ## Usage
 1. Extract the pocket_size_summ.dat from TRAPPOutput.zip, and exported to csv file in triad-nma.csv format
-2. sh run.sh
+2. Run run.sh
 
 ## Download the complete script zip
 Click <a href="https://github.com/sean28/TRAPP-Multiple-comparison/archive/refs/heads/main.zip">here</a>.
