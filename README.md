@@ -1,4 +1,4 @@
-# TRAPP-Multiple-comparison
+# TRAPP Multiple comparison
 <div style="text-align: justify"> TRAnsient Pockets in Proteins (TRAPP) is a tool that allows the exploration of different protein conformations, the analysis of binding pocket flexibility and dynamics, and the extraction of spatial and physicochemical information on the binding pocket confor-mations (J Chem Inf Model. 2020 Mar 23;60(3):1685-1699). Through this <a href="https://trapp.h-its.org/trapp">link</a>, you can learn and use the TRAPP webserver online.</div>
 <div style="text-align: justify"> <br> </div>
 <div style="text-align: justify"> The analysis chart derived from TRAPP only shows the scoring of one system, and cannot compare multiple groups of systems. Now we have developed an extended tool to realize the comparative analysis of multiple systems. This program need to extract data from the TRAPP analysis results, and then use this script for analysis. Now we only provide two groups of system comparative analysis tools. </div>
